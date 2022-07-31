@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>New Tab</title>
+    <style>
+        body{
+            background-color:#202020;
+        }
+        h1 {
+            font-size: 96px;
+            color:#ffffff;
+        }
+        a {
+            color:white;
+            text-decoration:none;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <h1>NEW TAB</h1>
+        <br />
+        <a href="https://editor.construct.net" target="_blank">Make a game</a>
+        <br />
+        <br />
+        <br />
+        <a href="https://google.com" target="_blank">Search the web</a>
+        <br />
+        <br />
+        <br />
+        <a href="https://www.chesskid.com/home" target="_blank">Play Chess</a>
+        <br />
+        <br />
+        <br />
+        <a href="https://www.github.com" target="_blank">Github</a>
+        <br />
+        <br />
+        <br />
+        <a href="https://www.disneyplus.com/en-gb/select-profile" target="_blank">Disney+</a>
+    </center>
+</body>
+</html>
